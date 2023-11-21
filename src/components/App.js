@@ -6,9 +6,11 @@ import NavBar from "./NavBar";
 function App() {
   return (
     <div>
-      <About />
-      <Home />
       <NavBar />
+      <Home />
+      <About />
+      
+      
     </div>
   );
 }
