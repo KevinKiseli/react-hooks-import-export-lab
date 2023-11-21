@@ -1,7 +1,7 @@
 import React from "react";
 import { username, city } from '../data/user';
 
-const Home = () => {
+function Home () {
   return (
     <div id="home">
       <h1>

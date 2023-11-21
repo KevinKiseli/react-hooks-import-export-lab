@@ -1,6 +1,6 @@
 import React from "react";
 
-const NavBar = () => {
+function NavBar () {
   return (
     <nav>
       <a href="#home">I'm a link!</a>
